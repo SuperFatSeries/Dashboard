@@ -20,4 +20,4 @@
 | 18214685 | 余广坝 | 负责产品功能测试和素材收集，各个迭代阶段的产品报告、测试报告和模型图、协助项目微服务化部署 |
 
 
-[**project kanban**](https://github.com/orgs/SuperFatSeries/projects/1)
+[**project kanban**](https://github.com/orgs/SuperFatSeries/projects)
