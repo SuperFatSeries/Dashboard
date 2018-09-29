@@ -3,7 +3,7 @@
 * 3、[Investigation](docs/3-investigation)（项目前期调研）
 * 4、[Vision](docs/4-vision)（项目愿景）
 * 5、[Product Backlog](docs/5-product-backlog) （产品特性）
-* 6、[Requirement specification](docs/6-requirement-specification/readme)（需求规格说明）
+* 6、[Requirement specification](docs/6-requirement-specification)（需求规格说明）
     - 6.1 Usecase Diagram（用例图）
     - 6.2 Use Cases（用例+活动图）
     - 6.3 Domian Models（领域模型）
