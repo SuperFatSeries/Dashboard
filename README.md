@@ -20,7 +20,7 @@
     - 7.3 [API design](https://superfatseries.github.io/API-Document/)
     - 7.4 Software Architecture Document
     - 7.5 Usecase design
-         - 7.5.1 xx case design
+         - 7.5.1 xxx case design
 * 8、[生产规范与指南](docs/8-生产规范与指南)
     - 8.1 [后端代码规范](docs/8-生产规范与指南/后端代码规范)
     - 8.2 [前端代码规范](docs/8-生产规范与指南/前端代码规范)
