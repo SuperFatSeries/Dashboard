@@ -17,7 +17,7 @@
         - 7.2.1 用户及权限系统与数据表设计
         - 7.2.2 XX子系统数据课设计 
         - 7.2.x 第三方数据评审结果
-    - 7.3 API design
+    - 7.3 [API design](https://superfatseries.github.io/API-Document/)
     - 7.4 Software Architecture Document
     - 7.5 Usecase design
          - 7.5.1 xx case design
