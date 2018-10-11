@@ -33,7 +33,28 @@
 
 ### 交互体验与视觉风格
 学生界面
-![](img_competitor/学生界面.png)
+![](img_competitor/学生界面.PNG)
+
+教师界面
+![](img_competitor/教师页面.PNG)
+
+学生课程页面
+![](img_competitor/学生课程界面.PNG)
+
+作业页面
+![](img_competitor/作业界面.PNG)
+
+上传作业页面
+![](img_competitor/上传作业界面.PNG)
+
+作业成绩页面
+![](img_competitor/作业成绩页面.PNG)
+
+公告发布页面
+![](img_competitor/发布公告与上传PPT页面.PNG)
+
+教师管理学生页面
+![](img_competitor/教师查看学生.PNG)
 ### 亮点特点借鉴
 ## 总结
 ## 附录
