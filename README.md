@@ -1,4 +1,4 @@
-* 1、[About](docs/1-about)（项目规划）
+* 1、[About](docs/1-about.md)（项目规划）
 * 2、[Team profile](docs/2-team-profile)（团队组建）
 * 3、[Investigation](docs/3-investigation)（项目前期调研）
 * 4、[Vision](docs/4-vision)（项目愿景）
