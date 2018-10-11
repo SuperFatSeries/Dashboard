@@ -1,10 +1,10 @@
 * 1、[About](docs/1-about.md)（项目规划）
-* 2、[Team profile](docs/2-team-profile)（团队组建）
-* 3、[Investigation](docs/3-investigation)（项目前期调研）
-* 4、[Vision](docs/4-vision)（项目愿景）
-* 5、[Product Backlog](docs/5-product-backlog) （产品特性）
-* 6、[Requirement specification](docs/6-requirement-specification)（需求规格说明）
-    - 6.1 [Usecase Diagram（用例图）](docs/6-requirement-specification/1-usecase-diagram)
+* 2、[Team profile](docs/2-team-profile.md)（团队组建）
+* 3、[Investigation](docs/3-investigation.md)（项目前期调研）
+* 4、[Vision](docs/4-vision.md)（项目愿景）
+* 5、[Product Backlog](docs/5-product-backlog.md) （产品特性）
+* 6、[Requirement specification](docs/6-requirement-specification.md)（需求规格说明）
+    - 6.1 [Usecase Diagram（用例图）](docs/6-requirement-specification/1-usecase-diagram.md)
     - 6.2 [Use Cases（用例+活动图）](docs/6-requirement-specification/2-use-cases)
     - 6.3 [Domain Models（领域模型）](docs/6-requirement-specification/3-domain-models)
     - 6.4 [State Models（状态模型）](docs/6-requirement-specification/4-state-models)
