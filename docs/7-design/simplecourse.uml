@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>ad6a030d-78d9-4f8d-895a-9a6500ba17e2.SCHEMA:simplecourse</OriginalElement>
+  <nodes>
+    <node x="430.0" y="184.5">ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.course</node>
+    <node x="641.0" y="459.5">ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.notification</node>
+    <node x="211.0" y="448.0">ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.homework</node>
+    <node x="54.018749999999955" y="173.0">ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.admin</node>
+    <node x="421.76875" y="0.0">ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.institute</node>
+    <node x="262.75" y="713.0">ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.homework_submit</node>
+    <node x="430.0" y="459.5">ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.courseware</node>
+    <node x="823.875" y="736.0">ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.student_course</node>
+    <node x="0.0" y="482.5">ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.admin_course</node>
+    <node x="853.0" y="482.5">ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.student</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.homework" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.admin">
+      <point x="-49.75" y="-107.5" />
+      <point x="260.75" y="408.0" />
+      <point x="197.26874999999995" y="408.0" />
+      <point x="47.75" y="107.5" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.homework" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.course">
+      <point x="49.75" y="-107.5" />
+      <point x="360.25" y="428.0" />
+      <point x="487.29999999999995" y="428.0" />
+      <point x="-38.200000000000045" y="96.0" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.student_course" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.course">
+      <point x="-47.75" y="-73.0" />
+      <point x="871.625" y="683.0" />
+      <point x="842.5" y="683.0" />
+      <point x="842.5" y="418.0" />
+      <point x="601.9" y="418.0" />
+      <point x="76.39999999999998" y="96.0" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.notification" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.course">
+      <point x="0.0" y="-96.0" />
+      <point x="736.5" y="428.0" />
+      <point x="563.6999999999999" y="428.0" />
+      <point x="38.19999999999993" y="96.0" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.homework_submit" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.homework">
+      <point x="-47.75" y="-96.0" />
+      <point x="0.0" y="107.5" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.admin_course" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.course">
+      <point x="47.75" y="-73.0" />
+      <point x="143.25" y="418.0" />
+      <point x="449.1" y="418.0" />
+      <point x="-76.39999999999998" y="96.0" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.courseware" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.course">
+      <point x="0.0" y="-96.0" />
+      <point x="0.0" y="96.0" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.admin" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.institute">
+      <point x="0.0" y="-107.5" />
+      <point x="149.51874999999995" y="148.0" />
+      <point x="469.51875" y="148.0" />
+      <point x="-47.75" y="61.5" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.student_course" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.student">
+      <point x="47.75" y="-73.0" />
+      <point x="967.125" y="693.0" />
+      <point x="996.25" y="693.0" />
+      <point x="47.75" y="73.0" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.homework_submit" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.student">
+      <point x="47.75" y="-96.0" />
+      <point x="406.0" y="693.0" />
+      <point x="900.75" y="693.0" />
+      <point x="-47.75" y="73.0" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.student" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.institute">
+      <point x="0.0" y="-73.0" />
+      <point x="948.5" y="148.0" />
+      <point x="565.01875" y="148.0" />
+      <point x="47.75" y="61.5" />
+    </edge>
+    <edge source="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.admin_course" target="ad6a030d-78d9-4f8d-895a-9a6500ba17e2.TABLE:simplecourse.admin">
+      <point x="-47.75" y="-73.0" />
+      <point x="47.75" y="428.0" />
+      <point x="101.76874999999995" y="428.0" />
+      <point x="-47.75" y="107.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1" x="617.5" y="483.909090909091" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Key columns</Category>
+  </Categories>
+</Diagram>
+
