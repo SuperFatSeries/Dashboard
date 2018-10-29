@@ -1,5 +1,5 @@
 下图为整个系统的用例一览，在img_use_case文件夹中亦有各个子用例图。 
-![](img_use_case/totalusecase1.png)
+![](img_use_case/totalusecase2.png)
 
 # 用例文本与活动图
 整个系统按照业务划分为下面几个用例，用例文本引用了子用例图，并添有必要的活动图辅助说明。
