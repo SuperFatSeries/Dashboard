@@ -27,4 +27,4 @@
 
 ##### 流程图：
 
-![管理教师信息流程图](img_activity/admin_teacher.png)
+![管理课程信息流程图](img_activity/admin_course.png)
