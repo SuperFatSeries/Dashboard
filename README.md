@@ -5,11 +5,11 @@
 * 5、[Product Backlog](docs/5-product-backlog.md) （产品特性）
 * 6、[Requirement specification](docs/6-requirement-specification.md)（需求规格说明）
     - 6.1 [Usecase Diagram（用例图）](docs/6-requirement-specification/1-usecase-diagram.md)
-    - 6.2 [Use Cases（用例+活动图）](docs/6-requirement-specification/2-use-cases)
-    - 6.3 [Domain Models（领域模型）](docs/6-requirement-specification/3-domain-models)
-    - 6.4 [State Models（状态模型）](docs/6-requirement-specification/4-state-models)
-    - 6.5 [System Sequence Diagrams（功能模型）](docs/6-requirement-specification/5-system-sequence-diagrams)
-    - 6.6 [Supplementary Requirements（补充需求）](docs/6-requirement-specification/6-supplementary-requirements)
+    - 6.2 [Use Cases（用例+活动图）](docs/6-requirement-specification/2-use-cases.md)
+    - 6.3 [Domain Models（领域模型）](docs/6-requirement-specification/3-domain-models.md)
+    - 6.4 [State Models（状态模型）](docs/6-requirement-specification/4-state-models.md)
+    - 6.5 [System Sequence Diagrams（功能模型）](docs/6-requirement-specification/5-system-sequence-diagrams.md)
+    - 6.6 [Supplementary Requirements（补充需求）](docs/6-requirement-specification/6-supplementary-requirements.md)
 * 7、[Design](docs/7-design)（设计）
     - 7.1 UI design
         - XX 用例 UI设计
