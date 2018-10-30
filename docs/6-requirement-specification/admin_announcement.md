@@ -4,7 +4,7 @@
 
 **用例图：**
 
-![管理课程公告用例图](img_use_case/announcement.png)
+![管理课程公告用例图](img_use_case/admin_announcement.png)
 
 
 ##### 用例分析：
