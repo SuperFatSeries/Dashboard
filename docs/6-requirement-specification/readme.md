@@ -12,7 +12,7 @@
  -  [管理课程课件](admin_ppt.md)：教师、助教管理课程课件。
  -  [管理课程作业](admin_homework.md)：教师、助教管理课程作业信息。
  -  [下载学生作业](download_homework.md)：教师、助教下载学生作业。
- -  [管理课程公告](admin_assistant.md)：教师管理助教基本信息。
+ -  [管理课程助教](admin_assistant.md)：教师管理助教基本信息。
  
  -  [学生端功能](student.md)：学生上传作业、下载课件、查看课程公告。
  
