@@ -47,4 +47,4 @@ B2：公告内容为空，系统提示“公告内容不能为空”，返回基
 
 ##### 流程图：
 
-![管理课程公告流程图](img_activity/admin_announcement1.png)
+![管理课程公告流程图](img_activity/admin_announcement2.png)
