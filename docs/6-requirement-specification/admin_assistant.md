@@ -68,6 +68,6 @@ II.后备事件流<br>
 
 
 
-##### 流程图：
+##### 活动图：
 
 ![管理课程助教流程图](img_activity/admin_assistant1.png)
