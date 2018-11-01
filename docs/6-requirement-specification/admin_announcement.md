@@ -53,4 +53,4 @@ II.后备事件流
 
 ##### 流程图：
 
-![管理课程公告流程图](img_activity/admin_announcement2.png)
+![管理课程公告流程图](img_activity/admin_announcement3.png)
