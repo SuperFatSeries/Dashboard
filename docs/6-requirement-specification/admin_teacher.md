@@ -7,7 +7,7 @@
 ![管理教师信息用例图](img_use_case/admin_teacher.png)
 
 
-## 3.0.1 管理教师信息用例
+## 1.0.2 管理教师信息用例
 ##### 1）简要说明
 本用例允许超级管理员对教师信息进行新增、修改、删除、查询
 
@@ -72,4 +72,4 @@ II.后备事件流<br>
 
 ##### 流程图：
 
-![管理教师信息流程图](img_activity/admin_teacher.png)
+![管理教师信息流程图](img_activity/admin_teacher1.png)
