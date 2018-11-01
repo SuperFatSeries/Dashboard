@@ -59,4 +59,4 @@ B4：作业提交截止时间设置为作业发布时间之前，系统提示“
 
 ##### 流程图：
 
-![管理课程作业流程图](img_activity/admin_homework.png)
+![管理课程作业流程图](img_activity/admin_homework1.png)
