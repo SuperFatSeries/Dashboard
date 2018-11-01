@@ -48,4 +48,4 @@ II.后备事件流
 
 ##### 流程图：
 
-![管理课程课件流程图](img_activity/admin_ppt.png)
+![管理课程课件流程图](img_activity/admin_ppt3.png)
