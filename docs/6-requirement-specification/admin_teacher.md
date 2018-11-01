@@ -72,4 +72,4 @@ II.后备事件流<br>
 
 ##### 流程图：
 
-![管理教师信息流程图](img_activity/admin_teacher1.png)
+![管理教师信息流程图](img_activity/admin_teacher3.png)
