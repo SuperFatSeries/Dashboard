@@ -13,12 +13,13 @@
 * 7、[Design](docs/7-design)（设计）
     - 7.1 UI design
         - XX 用例 UI设计
-    - 7.2 Database design
+    - 7.2 [Software Architecture Design]
+    (docs/7-design/2-architecture-design.md)
+    - 7.3 Database design
         - 7.2.1 用户及权限系统与数据表设计
         - 7.2.2 XX子系统数据课设计 
         - 7.2.x 第三方数据评审结果
-    - 7.3 [API design](https://superfatseries.github.io/API-Document/)
-    - 7.4 Software Architecture Document
+    - 7.4 [API design](https://superfatseries.github.io/API-Document/)
     - 7.5 Usecase design
          - 7.5.1 xxx case design
 * 8、[生产规范与指南](docs/8-生产规范与指南)
