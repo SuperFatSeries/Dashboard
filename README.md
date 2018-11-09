@@ -13,8 +13,7 @@
 * 7、[Design](docs/7-design)（设计）
     - 7.1 UI design
         - XX 用例 UI设计
-    - 7.2 [Software Architecture Design]
-    (docs/7-design/2-architecture-design.md)
+    - 7.2 [Software Architecture Design](docs/7-design/2-architecture-design.md)
     - 7.3 Database design
         - 7.2.1 用户及权限系统与数据表设计
         - 7.2.2 XX子系统数据课设计 
