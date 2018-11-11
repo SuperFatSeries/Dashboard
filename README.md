@@ -5,7 +5,7 @@
 * 5、[Product Backlog](docs/5-product-backlog.md) （产品特性）
 * 6、[Requirement specification](docs/6-requirement-specification.md)（需求规格说明）
     - 6.1 [Usecase Diagram（用例图）](docs/6-requirement-specification/1-usecase-diagram.md)
-    - 6.2 [Use Cases（用例+活动图）](docs/6-requirement-specification/2-use-cases.md)
+    - 6.2 [Use Cases（用例规约+活动图）](docs/6-requirement-specification/2-use-cases.md)
     - 6.3 [Domain Models（领域模型）](docs/6-requirement-specification/3-domain-models.md)
     - 6.4 [State Models（状态模型）](docs/6-requirement-specification/4-state-models.md)
     - 6.5 [System Sequence Diagrams（功能模型）](docs/6-requirement-specification/5-system-sequence-diagrams.md)
