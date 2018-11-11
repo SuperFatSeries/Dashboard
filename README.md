@@ -10,6 +10,7 @@
     - 6.4 [State Models（状态模型）](docs/6-requirement-specification/4-state-models.md)
     - 6.5 [System Sequence Diagrams（功能模型）](docs/6-requirement-specification/5-system-sequence-diagrams.md)
     - 6.6 [Supplementary Requirements（补充需求）](docs/6-requirement-specification/6-supplementary-requirements.md)
+    - 6.7 [Glossary（术语表）](docs/6-requirement-specification/7-glossary.md)
 * 7、[Design](docs/7-design)（设计）
     - 7.1 UI design
         - XX 用例 UI设计
