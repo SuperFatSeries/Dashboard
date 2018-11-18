@@ -4,4 +4,4 @@
 
 **状态模型图：**
 
-![下载作业状态模型图](img_state/download.png)
+![下载作业状态模型图](img_state/download1.png)
