@@ -16,8 +16,8 @@
         - XX 用例 UI设计
     - 7.2 [Software Architecture Design](docs/7-design/2-architecture-design.md)
     - 7.3 Database design
-        - 7.2.1 [用户及权限系统与数据库设计](docs/7-design/database-ER.png)
-        - 7.2.2 [SimpleCourse系统数据表设计](docs/7-design/3.2-system-database-design.md)
+        - 7.2.1 [用户及权限系统与数据库设计](docs/7-design/3.1-system-database-design.png)
+        - 7.2.2 [SimpleCourse系统数据表设计](docs/7-design/3.2-system-data-table-design.md)
         - 7.2.x 第三方数据评审结果
     - 7.4 [API design](https://superfatseries.github.io/API-Document/)
     - 7.5 Usecase design
