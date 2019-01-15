@@ -28,11 +28,6 @@
     - 8.3 [REST API 设计规范](docs/8-生产规范与指南/REST API 设计规范)
     - 8.4 [逻辑架构到应用程序映射指南(BCE)](docs/8-生产规范与指南/逻辑架构到应用程序映射指南)
     - 8.5 [部署说明](docs/8-生产规范与指南/部署说明)
-* 9、[测试](docs/9-测试)
-    - 9.1 测试方案
-    - 9.2 后端API测试报告
-    - 9.3 综合测试报告
-    - 9.4 回归测试报告
 * 10、[成品展示](docs/10-成品展示)
 * X1 [meet_recording](docs/X1-meet-records)
     - [inception meeting (2018/09/28)](docs/X1-meet-records/20180928)
