@@ -30,10 +30,8 @@
 * 10、[成品展示](docs/10-成品展示)
 * X1 [meet_recording](docs/X1-meet-records)
     - [inception meeting (2018/09/28)](docs/X1-meet-records/20180928.md)
-    - [inception meeting (2018/10/08)](docs/X1-meet-records/20181008.md)
-    - initial design meeting (yy/mm/dd)
-    - detail design meeting (yy/mm/dd)
-    - iteration2 meeting (yy/mm/dd)
+    - [initial design meeting (2018/10/08)](docs/X1-meet-records/20181008.md)
+    - [detail design meeting (2018/10/20)](docs/X1-meet-records/20181020.md)
 * X2 [Tech/Work Report](docs/X2-work-report)
     - 学号-title
 * X3 [Final Report](docs/X3-final-report)
