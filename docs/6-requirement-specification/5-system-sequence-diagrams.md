@@ -8,3 +8,6 @@
 
 #### 作业提交 (18214744)：超级管理员可以对课程信息进行增删改查
 ![学生提交作业](img_sequence/task_information.png)
+
+#### 作业提交 (18214744)：超级管理员可以对教师信息进行增删改查
+![学生提交作业](img_sequence/teacher_information.png)
