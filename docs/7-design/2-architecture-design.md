@@ -26,6 +26,6 @@
 * 服务端使用Spring Boot和Flask进行开发，严格遵守MVC模式，当有新的功能需求时可以通过增加对应Model和Controller方便进行更新
 
 ## 逻辑视图
-![](logic_view.png)
+![](logic_view.jpg)
 ## 物理视图
 ![](architecture.png)
