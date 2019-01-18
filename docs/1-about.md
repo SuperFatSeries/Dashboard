@@ -40,6 +40,3 @@ Artifacts:
 - 后端选型
 - 下阶段开发计划
 
-### Iteration 1
-
-**week x(xx/xx/2018)**
