@@ -36,8 +36,7 @@
     - [initial design meeting (2018/10/08)](docs/X1-meet-records/20181008.md)
     - [detail design meeting (2018/10/20)](docs/X1-meet-records/20181020.md)
 * X2 [Tech/Work Report](docs/X2-work-report)
-	-
-	[18214744-UML设计与后台开发总结](docs/X2-work-report/18214744-UML设计与后台开发总结.md)
+    - [18214744-UML设计与后台开发总结](docs/X2-work-report/18214744-UML设计与后台开发总结.md)
 * X3 [Final Report](docs/X3-final-report)
     - 学号-title
     - 小组分工与贡献率说明
