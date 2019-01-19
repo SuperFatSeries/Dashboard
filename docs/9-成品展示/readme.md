@@ -18,3 +18,9 @@
 <img height=900 width=1440 src="admin3.gif"/>
 
 ## 学生端
+
+学生端界面展示。
+<img height=900 width=1440 src="student1.gif"/>
+
+学生端作业提交流程。
+<img height=900 width=1440 src="student2.gif"/>
