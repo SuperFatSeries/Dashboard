@@ -15,7 +15,7 @@
 
 课件可以下载和上传，作业可以对学生的提交进行管理、下载。
 
-<img height=900 width=1440 src="admin3.gif"/>
+<img src="admin3.gif"/>
 
 ## 学生端
 
