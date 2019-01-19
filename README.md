@@ -41,4 +41,4 @@
 * X3 [Final Report](docs/X3-final-report/final-report.md)
     - [18214744-最终报告](docs/X3-final-report/18214744-最终报告.md)
     - [18214770-最终报告](docs/X3-final-report/18214770.md)
-    - 小组分工与贡献率说明
+    - [小组分工与贡献率说明](docs/X3-final-report/statics.md)
