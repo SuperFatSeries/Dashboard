@@ -7,11 +7,11 @@
 
 进入管理后台，登录。可以看到两类管理对象：系统对象和课程内容。
 
-<img height=900 width=1440 src="admin1.gif"/>
+<img src="admin1.gif"/>
 
 以通知为例展示新增功能。
 
-<img height=900 width=1440 src="admin2.gif"/>
+<img src="admin2.gif"/>
 
 课件可以下载和上传，作业可以对学生的提交进行管理、下载。
 
