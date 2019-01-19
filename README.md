@@ -35,10 +35,10 @@
     - [inception meeting (2018/09/28)](docs/X1-meet-records/20180928.md)
     - [initial design meeting (2018/10/08)](docs/X1-meet-records/20181008.md)
     - [detail design meeting (2018/10/20)](docs/X1-meet-records/20181020.md)
-* X2 [Tech/Work Report](docs/X2-work-report/final-report.md)
+* X2 [Tech/Work Report](docs/X2-work-report)
     - [18214744-UML设计与后台开发总结](docs/X2-work-report/18214744-UML设计与后台开发总结.md)
     - [18214770-SpringBoot+ReactJS开发总结](docs/X2-work-report/18214770-SpringBoot+ReactJS开发总结.md)
-* X3 [Final Report](docs/X3-final-report)
+* X3 [Final Report](docs/X3-final-report/final-report.md)
     - [18214744-最终报告](docs/X3-final-report/18214744-最终报告.md)
     - [18214770-最终报告](docs/X3-final-report/18214770.md)
     - 小组分工与贡献率说明
