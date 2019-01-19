@@ -37,6 +37,7 @@
     - [detail design meeting (2018/10/20)](docs/X1-meet-records/20181020.md)
 * X2 [Tech/Work Report](docs/X2-work-report)
     - [18214744-UML设计与后台开发总结](docs/X2-work-report/18214744-UML设计与后台开发总结.md)
+    - [18214685 - 容器镜像总结](https://www.cnblogs.com/yuxiaoba/p/9613209.html)
 * X3 [Final Report](docs/X3-final-report)
     - [18214744-最终报告](docs/X3-final-report/18214744-最终报告.md)
     - 小组分工与贡献率说明
