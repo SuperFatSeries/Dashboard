@@ -13,7 +13,7 @@
     - 6.7 [Glossary（术语表）](docs/6-requirement-specification/7-glossary.md)
 * 7、[Design](docs/7-design)（设计）
     - 7.1 UI design
-        - XX 用例 UI设计
+        - 7.1.1 [UI原型设计](docs/7-design/1-UI-design.md)
     - 7.2 Database design
         - 7.2.1 [用户及权限系统与数据库设计](docs/7-design/3.1-system-database-design.md)
         - 7.2.2 [SimpleCourse系统数据表设计](docs/7-design/3.2-system-data-table-design.md)
